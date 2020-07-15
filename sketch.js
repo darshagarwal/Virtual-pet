@@ -32,9 +32,7 @@ function draw() {
     writeStock(foodS);
     dog.addImage("dog",happy_DogImg);
     foodStock -= 1;
-  }
-
-  
+  }  
 
   drawSprites();
   //add styles here
